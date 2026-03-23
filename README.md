@@ -30,7 +30,7 @@ Certifié **Cisco CCNA** et **ISC2 Certified in Cybersecurity (CC)**, je combine
 ---
 
 ##  Statistiques GitHub
-![Stats d'Alhafi](https://github-readme-stats.vercel.app/api?username=alhafinixon&show_icons=true&theme=radical)  
+![Stats d'Alhafi](https://github-readme-stats.vercel.app/api?username=alhafikoibour&show_icons=true&theme=radical)  
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=alhafikoibour&layout=compact&theme=radical)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alhafikoibour&theme=radical)
 
