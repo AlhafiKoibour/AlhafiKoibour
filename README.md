@@ -2,7 +2,7 @@
 
 # Salut, moi c’est Alhafi Koïbour 
 
-Étudiant en **Master 1 Cybersécurité** à l'École Nationale Polytechnique de Bamenda (ENSPB). Je suis un passionné de sécurité offensive, de défense des infrastructures et de développement sécurisé.
+Étudiant en **Master Cybersécurité** à l'École Nationale Polytechnique de Bamenda (ENSPB). Je suis un passionné de sécurité offensive, de défense des infrastructures et de développement sécurisé.
 
 Certifié **Cisco CCNA** et **ISC2 Certified in Cybersecurity (CC)**, je combine mes compétences en administration réseau et en développement Python pour concevoir des solutions résilientes.
 
